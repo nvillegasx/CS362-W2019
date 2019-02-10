@@ -3,8 +3,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-// change things validCharsound a bit
-// variable names etc
+
 char inputChar()
 {
     // TODO: rewrite this function
@@ -13,7 +12,7 @@ char inputChar()
     
     // gets char from 0 to 9
     retChar = validChars[rand() % 9];
-    
+
     return retChar;
 }
 
