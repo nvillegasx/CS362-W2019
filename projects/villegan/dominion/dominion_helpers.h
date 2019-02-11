@@ -11,5 +11,9 @@ int gainCard(int supplyPos, struct gameState *state, int toFlag, int player);
 int getCost(int cardNumber);
 int cardEffect(int card, int choice1, int choice2, int choice3, 
 	       struct gameState *state, int handPos, int *bonus);
+//    added these
+int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
+		   struct gameState *state);
+int numHandCards(struct gameState *state);
 
 #endif

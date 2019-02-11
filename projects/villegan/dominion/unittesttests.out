@@ -1,0 +1,91 @@
+TESTING numHandCards():
+PASS: Player 0 when checking handCount of 5
+PASS: Player 1 when checking handCount of 5
+PASS: Player 2 when checking handCount of 5
+All tests passed!
+File 'dominion.c'
+Lines executed:16.77% of 644
+dominion.c:creating 'dominion.c.gcov'
+
+TESTING whoseTurn():
+PASS: When its player 0 turn
+PASS: When its player 1 turn
+PASS: When its player 2 turn
+All tests passed!
+File 'dominion.c'
+Lines executed:16.77% of 644
+dominion.c:creating 'dominion.c.gcov'
+
+TESTING isGameOver():
+PASS: Player 0 when checking emptyness of supplyCount[province] = 8
+PASS: Player 0 when checking supply piles greater than 0
+PASS: Player 1 when checking emptyness of supplyCount[province] = 8
+PASS: Player 1 when checking supply piles greater than 0
+All tests passed!
+
+File 'dominion.c'
+Lines executed:19.25% of 644
+dominion.c:creating 'dominion.c.gcov'
+
+TESTING fullDeckCount():
+PASS: Deck Count is equal to 5 
+PASS: Deck Count is equal to 5 
+PASS: Deck Count is equal to 5 
+PASS: Deck Count is equal to 10 
+PASS: Deck Count is equal to 10 
+PASS: Deck Count is equal to 10 
+All tests passed!
+
+File 'dominion.c'
+Lines executed:20.65% of 644
+dominion.c:creating 'dominion.c.gcov'
+
+TESTING smithy_case():
+PASS: The expected hand count equals to actual num of cards
+PASS: The played card count equals to actual num of cards played
+PASS: The expected hand count equals to actual num of cards
+PASS: The played card count equals to actual num of cards played
+PASS: The expected hand count equals to actual num of cards
+PASS: The played card count equals to actual num of cards played
+All tests passed!
+
+File 'dominion.c'
+Lines executed:23.14% of 644
+dominion.c:creating 'dominion.c.gcov'
+
+TESTING adventurer_case():
+PASS: when deck count is equal to 4 which is greater than 0
+PASS: when deck count is equal to 9 which is greater than 0
+PASS: when deck count is equal to 8 which is greater than 0
+All tests passed!
+
+File 'dominion.c'
+Lines executed:25.31% of 644
+dominion.c:creating 'dominion.c.gcov'
+
+TESTING great_hall_case():
+PASS: when hand count is 5 
+PASS: when action count is 2 
+PASS: when hand count is 0 
+PASS: when action count is 2 
+PASS: when hand count is 0 
+PASS: when action count is 2 
+All tests passed!
+
+File 'dominion.c'
+Lines executed:26.24% of 644
+dominion.c:creating 'dominion.c.gcov'
+
+TESTING council_room_case():
+PASS: when hand count is 8 
+PASS: when buy count is 2 
+PASS: when hand count is 3 
+PASS: when buy count is 2 
+PASS: when hand count is 3 
+PASS: when buy count is 2 
+All tests passed!
+
+File 'dominion.c'
+Lines executed:27.95% of 644
+dominion.c:creating 'dominion.c.gcov'
+
