@@ -54,7 +54,7 @@ int main() {
         G.deckCount[currPlayer] = deckCount;
 
         // sets the deck count
-        deckCount = G.deckCount[p];
+        deckCount = G.deckCount[currPlayer];
         // calls the adventurer case
         assert(adventurer_case(&G, currPlayer, &cardDrawn, temphand, &z) == 0);
 
