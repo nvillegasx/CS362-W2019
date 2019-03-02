@@ -1,0 +1,15 @@
+TESTING great_hall_case():
+PASS: when hand count is 1 
+PASS: when action count is 10 
+PASS: when hand count is 1 
+PASS: when action count is 10 
+PASS: when hand count is 5 
+PASS: when action count is 10 
+PASS: when hand count is 3 
+PASS: when action count is 7 
+All tests passed!
+
+File 'dominion.c'
+Lines executed:19.10% of 644
+dominion.c:creating 'dominion.c.gcov'
+
