@@ -10,6 +10,6 @@ PASS: The played card count equals to actual num of cards played
 All tests passed!
 
 File 'dominion.c'
-Lines executed:19.88% of 644
+Lines executed:19.57% of 644
 dominion.c:creating 'dominion.c.gcov'
 
