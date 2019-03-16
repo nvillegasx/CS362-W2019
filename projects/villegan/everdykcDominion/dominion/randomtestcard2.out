@@ -1,0 +1,13 @@
+TESTING smithy_case():
+FAILED: The expected hand count is incorrect.
+PASS: The played card count equals to actual num of cards played
+FAILED: The expected hand count is incorrect.
+PASS: The played card count equals to actual num of cards played
+FAILED: The expected hand count is incorrect.
+PASS: The played card count equals to actual num of cards played
+FAILED: The expected hand count is incorrect.
+PASS: The played card count equals to actual num of cards played
+File 'dominion.c'
+Lines executed:23.60% of 644
+dominion.c:creating 'dominion.c.gcov'
+

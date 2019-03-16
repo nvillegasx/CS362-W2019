@@ -1,0 +1,11 @@
+TESTING adventurer_case():
+PASS: when deck count is equal to 9 which is greater than 0
+PASS: when deck count is equal to 9 which is greater than 0
+PASS: when deck count is equal to 9 which is greater than 0
+PASS: when deck count is equal to 9 which is greater than 0
+All tests passed!
+
+File 'dominion.c'
+Lines executed:25.78% of 644
+dominion.c:creating 'dominion.c.gcov'
+
